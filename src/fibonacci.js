@@ -9,5 +9,5 @@ export const fibonacci = (num) => {
   }
   return  b
 }
-console.log(fibonacci(1))
+
 
